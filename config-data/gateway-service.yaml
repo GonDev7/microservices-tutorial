@@ -47,6 +47,6 @@ spring:
           tutorial-client:
             provider: keycloak
             client-id: tutorial-client
-            client-secret: 55a801b0-1ea5-4083-8e4d-767d97e7a88d
+            client-secret: de0d3945-b572-4af0-b520-8f48d03a88f6
             authorization-grant-type: authorization_code
             redirect-uri: "{baseUrl}/login/oauth2/code/tutorial-client"
